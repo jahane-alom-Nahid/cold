@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/doctor_list_itemId"
+    >
+
+    <ImageView
+        android:id="@+id/img_doctor"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_width="65dp"
+        android:layout_height="65dp" />
+
+    <LinearLayout
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Name_Doctor_Id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Doctor Name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/NumberDoctor_Id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone Number" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/info" />
+    </LinearLayout>
+
+</LinearLayout>

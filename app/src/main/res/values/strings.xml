@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+
+    <string name="Login_msg">Login To Your Account ?</string>
+    <string name="login">Name</string>
+
+    <string name="pass">PassWord</string>
+
+    <string name="login_msg">Login To Your Account ?</string>
+
+    <string name="loginbtn">LogIn</string>
+
+    <string name="login_to_signup_msg">Already Registered ? /Sign Up</string>
+
+    <string name="SugnUp_Name">Name</string>
+
+    <string name="Email_Name">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="Re_Type_pass">Re_Type Pass</string>
+
+    <string name="sign_to_Login">Already Registered ? /Sign In</string>
+
+    <string name="signUpbtn">Signup</string>
+
+    <string name="signup_msg">Welcome To Signup Page !!!</string>
+
+
+    <string name="grid_name">Welcome To our Service</string>
+
+
+    //primaryservice String:
+
+    <string-array name="group_primary_List_header">
+        <item>Headache With Fever</item>
+        <item>Vomiting</item>
+        <item>Burn</item>
+        <item>Low Blood Pressure</item>
+        <item>Common cold</item>
+        <item>Injuries</item>
+
+    </string-array>
+
+    <string-array name="child_primary_List_header">
+        <item>
+            Headache With Fever:
+
+            \n\nHeadache and fever are common symptoms of several kinds of illnesses. Mild types like the seasonal flu virus and allergies can cause these symptoms. Sometimes getting a fever can give you a headache.
+
+            \n\nMedicine: Paracetamol 500 mg Tablet.
+            \n\nHow to Take a Paracetamol:Must Take After Meals.
+
+            \n\nDosage: Adults And Children Over 16:
+
+            \n\n> The usual dose of paracetamol is 2 tablets
+            \n\n> Swallow the tablets whole with a drink of water
+            \n\n> Wait at least 4 hours before taking another dose
+	        \n\n> Do not take more than 4 doses in any 24-hour period
+
+            \n\n
+            \n\nParacetamol 500mg Tablets should not be given to children under 10 years of age.
+
+            \n\nSide Effects:Major And minor side effects for Paracetamol 500 MG Tablet
+
+
+
+
+            \n\n>Nausea or Vomiting
+            \n\n>Allergic skin reaction
+            \n\n>Gastric / Mouth Ulcer
+            \n\n>Anemia
+            \n\n>Fatigue
+            \n\n>Unusual Bleeding Or Bruising
+        </item>
+
+
+        <item>
+            Vomiting:
+            \n\nVomiting is the forcible emptying of the stomach in which the stomach has to overcome the pressures that are normally in place to keep food and secretions within the stomach.
+
+            \n\nCauses:  Causes of vomiting are varied and include food-borne illnesses (food poisoning), infections, problems with the brain and central nervous system, and systemic (body-wide) diseases.
+
+            \n\nMedicine: Omidon 10mg Tablet
+
+            \n\nHow to Take: Take the medicine 15 to 30 minutes before meals.
+
+            \n\nDosage:
+            \n\nAdult (adults and children (12 years and older and weighing 35 kg )
+            \n\nRecommended: 10 mg thrice a day
+            \n\n>Maximum: 30 mg per day
+            \n\n
+            \n\nChildren (children under 12 years and weighing less than 35 kg )
+            \n\n
+            \n\n>Recommended: 0.25 mg/kg (0.11 mg/lb) thrice a day (for oral suspension)
+            \n\n>Maximum: 0.75 mg/kg/day (0.34 mg/lb/day)
+
+            \n\n
+
+            \n\nSide-effects:
+            \n\n
+        	\n\n>dry mouth
+        	\n\n>convulsion
+        	\n\n>drowsiness
+        	\n\n>irritation
+        	\n\n>muscle stiffness
+        	\n\n>trembling
+        	\n\n>twisted neck
+        	\n\n>unusual movements of the tongue
+
+        </item>
+
+
+        <item>
+
+            Burn: Most minor burns can be treated at home. They usually heal within a couple of weeks.
+
+            \n\n
+            To treat minor burns, follow these steps:
+
+            \n\nSide-effects:
+            \n\n
+        	\n\n>Cool the burn area
+        	\n\n>Remove rings Or other tight items
+        	\n\n>Do not break blisters
+        	\n\n>Apply a lotion or burna cream\n\nBandage the burn area.
+	        \n\n\> Take a pain reliever such as ibuprofen (Advil, Motrin IB, others), naproxen sodium  (Aleve) or acetaminophen (Tylenol, others)
+	        \n\n\>Consider a tetanus shot.
+
+
+
+
+
+
+        </item>
+
+
+        <item>
+            Low Blood Pressure: Also called hypotension.A blood pressure reading lower than 90 millimeters of mercury (mm Hg) forthe top number (systolic) or 60 mm Hg for the bottom number (diastolic) is generally considered low blood pressure.
+
+            \n\n\Causes: The causes of low blood pressure can range from dehydration to serious medical or surgical disorders.
+
+            \n\nTreatment:
+
+            \n\n>Use more salt.
+            \n\n>Have saline water
+            \n\n>Drink more water.
+            \n\n>Wear compression stockings.
+            \n\n>Medications.
+
+
+
+        </item>
+
+
+        <item>
+            Common cold: The common cold is a viral infection of your nose and throat (upper respiratory tract). It is usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.
+
+            \n\nMedicine: Fexo 120 mg Tablet.
+            \n\n
+
+            \n\nDosage:Adults and children aged 12  years and older:  Take one 120 mg tablet once a day.
+
+              \n\nSide effects:Major And minor side effects for Fexo 120 mg Tablet
+                	\n\n>Vomiting
+                	\n\n>Headache
+                	\n\n>Coughing
+                	\n\n>Diarrhea
+                	\n\n>Painful menstruation
+                	\n\n>Pain in the arms and legs
+
+        </item>
+
+
+        <item>
+            Injuries: Injury, also known as physical trauma, is damage to the body caused by external force. This may be caused by accidents, falls, hits, weapons, and other causes.
+
+             \n\n\Treatment:  Minor injuries, such as mild sprains and strains, can often be initially treated at home using PRICE therapy for two or three days.
+            	\n\n\>Protection – protect the affected area from further injury.
+            	\n\n>Rest – avoid exercise and reduce your daily physical activity.
+            	\n\n\>Ice – apply an ice pack to the affected area for 15-20 minutes every two to three hours.
+            	\n\n\>Compression – use elastic compression bandages during the day to limit swelling.
+
+        </item>
+
+
+    </string-array>
+
+
+    \\\about.....
+
+    <string name="about_text">Using this app user can get numerous benefits like finding hospital in the city ,\n\ninformation about hospital and intelligent suggestion on choosing suitable hospital, information about cabin, cabin booking with payment, finding a doctor, first aid information  and finding emergency ambulance calling  etc. This application will be a helping hand for persons who find it difficult to select hospital, searching ambulance, book cabin, contacting doctor for appointment or seeking help in emergency situation. Besides, it will help the masses in their everyday life by providing medical center information, aid and medication information, etc.
+    </string>
+
+
+    <string-array name="Hospital_name">
+
+        <item>Prime Hospital Ltd. </item>
+        <item>Nstu Medical Center</item>
+        <item>Niramoy Hospital </item>
+        <item>Noakhali General Hospital </item>
+        <item>Modern Hospital Private </item>
+        <item>Apollo Hospital </item>
+        <item>Motherland Hospital and Heart Care Ltd. </item>
+        <item>Woodland Hospital and Diagonostics Center </item>
+        <item>Noakhali Diabetic Hospital </item>
+        <item>Good Heal Complex Pvt. Ltd. </item>
+        <item>Jibon Alo Hospital </item>
+
+
+    </string-array>
+
+
+    <string name="Name">Payee Name</string>
+    <string name="TransactionId">Bkash Transaction Id</string>
+    <string name="Pnumber">Phone number</string>
+    <string name="Date">Payment Date</string>
+    <string name="selectDate">Select Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    ///String For DoctorList name
+
+    <string-array name="DoctorList_name">
+        <item>D.Nahid</item>
+        <item>D.papia</item>
+        <item>D.nira</item>
+        <item>D.Eva</item>
+        <item>D.Moazzamel</item>
+        <item>D.Tanvir</item>
+        <item>D.Rony</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

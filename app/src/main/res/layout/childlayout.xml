@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:paddingLeft="?android:expandableListPreferredChildPaddingLeft"
+        android:text="nahid hasan sonix"
+        android:textSize="17sp"
+        android:padding="5dp"
+        android:textColor="#000000"
+        android:id="@+id/childtextVieId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
